@@ -7,7 +7,7 @@
     }"
     :breakpoints="{
       600: {
-        slidesPerView: 1,
+        slidesPerView: 2,
         spaceBetween: 25,
       },
       1200: {
@@ -19,7 +19,7 @@
     :speed="500"
     :loop="true"
     :centered-slides="false"
-    :slidesPerView="2"
+    :slidesPerView="1"
     :spaceBetween="0"
     :pagination="{
       clickable: true,
