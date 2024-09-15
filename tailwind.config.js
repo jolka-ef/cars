@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        wave1: "url('../src/assets/images/background_wave1.svg')",
-        wave2: "url('../src/assets/images/background_wave2.svg')",
+        wave1: "url('/images/background_wave1.svg')",
+        wave2: "url('/images/background_wave2.svg')",
       },
       colors: {
         brightgrey: '#ededed',

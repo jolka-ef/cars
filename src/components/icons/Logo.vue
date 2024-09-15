@@ -1,12 +1,9 @@
 <template>
   <picture>
-    <source media="(max-width: 400px)" srcset="/src/assets/images/logo.svg" />
-    <source
-      media="(min-width: 400px)"
-      srcset="/src/assets/images/logo--full.svg"
-    />
+    <source media="(max-width: 400px)" srcset="/images/logo.svg" />
+    <source media="(min-width: 400px)" srcset="/images/logo--full.svg" />
     <img
-      src="/src/assets/images/logo.svg"
+      src="/images/logo.svg"
       loading="eager"
       decoding="async"
       alt="Cars Spot"

@@ -27,19 +27,19 @@
     }"
   >
     <swiper-slide>
-      <img :src="`/src/assets/images/${folder}/1.jpg`" />
+      <img :src="`/cars/images/${folder}/1.jpg`" />
     </swiper-slide>
     <swiper-slide>
-      <img :src="`/src/assets/images/${folder}/2.jpg`" />
+      <img :src="`/cars/images/${folder}/2.jpg`" />
     </swiper-slide>
     <swiper-slide>
-      <img :src="`/src/assets/images/${folder}/3.jpg`" />
+      <img :src="`/cars/images/${folder}/3.jpg`" />
     </swiper-slide>
     <swiper-slide>
-      <img :src="`/src/assets/images/${folder}/4.jpg`" />
+      <img :src="`/cars/images/${folder}/4.jpg`" />
     </swiper-slide>
     <swiper-slide>
-      <img :src="`/src/assets/images/${folder}/5.jpg`" />
+      <img :src="`/cars/images/${folder}/5.jpg`" />
     </swiper-slide>
   </swiper>
 </template>

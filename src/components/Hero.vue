@@ -1,5 +1,5 @@
 <script setup>
-import Button from "@/components/Button.vue";
+import Button from '@/components/Button.vue';
 </script>
 <template>
   <section class="ml-sm pt-[120px]">
@@ -22,7 +22,7 @@ import Button from "@/components/Button.vue";
       </div>
 
       <img
-        :src="'/src/assets/images/cars.png'"
+        :src="'/cars/images/cars.png'"
         class="col-start-1 row-start-3 justify-self-end pt-2 xl:row-span-3 xl:row-start-1"
       />
     </div>
