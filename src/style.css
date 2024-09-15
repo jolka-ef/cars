@@ -7,7 +7,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: fallback;
-  src: url('./src/assets/fonts/BebasNeue.ttf') format('truetype');
+  src: url('./assets/fonts/BebasNeue.ttf') format('truetype');
 }
 
 @font-face {
@@ -39,5 +39,5 @@
   font-weight: 400;
   font-style: normal;
   font-display: fallback;
-  src: url('./src/assets/fonts/RobotoFlex.ttf') format('truetype');
+  src: url('./assets/fonts/RobotoFlex.ttf') format('truetype');
 }
